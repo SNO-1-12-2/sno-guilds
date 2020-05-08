@@ -1,0 +1,5 @@
+name: SNOGuilds
+version: ${project.version}
+main: io.github.eikefabricio.snoguilds.SNOGuilds
+authors: [Eike]
+description: A guild plugin to SNO server.
